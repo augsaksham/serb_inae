@@ -1,8 +1,0 @@
-transformers
-pydantic
-uvicorn
-fastapi
-sentencepiece
-pyarrow>=6.1.0
-typing-extensions==4.3.0
-torch
